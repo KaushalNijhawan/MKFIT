@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e9aacffc1d7a67bf33477b6"},"height":"178","weight":"83","name":"kaushal","age":"22","BMI":"26.0","_class":"com.example.demo.BMI"}
+{"_id":{"$oid":"5ea51c4626b86f60778b025f"},"height":"163","weight":"60","name":"Rashika Singh","age":"22","BMI":"22.0","_class":"com.example.demo.BMI"}

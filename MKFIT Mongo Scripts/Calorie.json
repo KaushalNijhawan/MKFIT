@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e9ed50992aa735e511b8b21"},"name":"Rashika Singh","age":"22","weight":"60","height":"163","activity":"Moderate","gender":"Female","calorie":"2090.0","_class":"com.example.demo.CalorieCount"}
+{"_id":{"$oid":"5ea5680626b86f60778b0312"},"name":"Rashika Singh","age":"22","weight":"60","height":"163","activity":"Moderate","gender":"Female","calorie":"2090.0","_class":"com.example.demo.CalorieCount"}
